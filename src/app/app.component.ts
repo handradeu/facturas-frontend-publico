@@ -8,7 +8,7 @@ import { BillService } from './bill.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'facturas-frontend-modificado';
+  title = 'facturas-frontend';
   public bills : any[] = [];
   public currentBillId = 0;
 
